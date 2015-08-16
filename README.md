@@ -13,5 +13,6 @@ If you are using targetprocess and github, you probably find targetprocess [gith
 
 ## How to install / use
 
-In Chrome, Opera or Safari, install/add the Tampermonkey extension and add this code as one of your scripts
+In Chrome, Opera or Safari, install/add the Tampermonkey extension and add this code as one of your scripts. 
+
 In Firefox, install/add the Greasemonkey extension and add this code as one of your scripts
